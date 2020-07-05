@@ -8,15 +8,15 @@
 
 #### pc端页面展示
 
-![ofeii-clcok-pc](D:\14_Img\ofeii-clock\ofeii-clock.png)
+![ofeii-clcok-pc](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/ofeii-clock.png)
 
-![](D:\14_Img\ofeii-clock\gif1.gif)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/gif1.gif)
 
-![](D:\14_Img\ofeii-clock\gif2.gif)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/gif2.gif)
 
 #### 移动端页面展示
 
-<img src="D:\14_Img\ofeii-clock\ofeii-clock-mobile.jpg" style="zoom:20%;" />
+<img src="https://github.com/OFEII/ofeii-clock-vue/blob/master/images/ofeii-clock-mobile.jpg" style="zoom:20%;" />
 
 #### 主要功能
 
@@ -84,7 +84,7 @@ DARK MODE的好处在于：
 
 
 
-![](D:\14_Img\ofeii-clock\OFEII-CLOCK-COLORS.png)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/OFEII-CLOCK-COLORS.png)
 
 #### 2.WCAG2.0标准
 
@@ -96,19 +96,19 @@ WCAG 2.0 (Web Content Accessibility Guidelines，内容可访问性指南)是国
 
 将日间和夜间模式的背景色background及主要文本颜色color对比可得其对比度均在4.5之上，满足了WCAG 2.0 的 AA 级要求。
 
-![](D:\14_Img\ofeii-clock\RADIO1.png)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/RADIO1.png)
 
-![](D:\14_Img\ofeii-clock\RADIO2.png)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/RADIO2.png)
 
 #### 3.拟物化指针
 
 在日间模式的指针配色主要为黑和红为，且时针和分针的指针尾部有一处白色的装饰，黑与白的相呼应，使得这个时钟在简约设计的同时不失小细节。而在暗黑模式的指针配色主要为白和红，因为尾部的装饰在白色下显得有些突兀，故舍去。而且每个指针都加了一层box-shadow增加指针的拟物感，使得更加逼真，贴近实物。
 
-![](D:\14_Img\ofeii-clock\hand1.png)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/hand1.png)
 
 
 
-<img src="D:\14_Img\ofeii-clock\hand2.png" style="zoom: 33%;" />
+<img src="https://github.com/OFEII/ofeii-clock-vue/blob/master/images/hand2.png" style="zoom: 33%;" />
 
 #### 4.凸起凹陷的真实质感
 
@@ -118,17 +118,17 @@ WCAG 2.0 (Web Content Accessibility Guidelines，内容可访问性指南)是国
 
 
 
-![ofeii-clcok-pc](D:\14_Img\ofeii-clock\ofeii-clock.png)
+![ofeii-clcok-pc](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/ofeii-clock.png)
 
-![](D:\14_Img\ofeii-clock\ofeii-clock-day-plus.png)
-
-
-
-![](D:\14_Img\ofeii-clock\ofeii-clock-stop.png)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/ofeii-clock-day-plus.png)
 
 
 
-![](D:\14_Img\ofeii-clock\ofeii-clock-night.png)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/ofeii-clock-stop.png)
+
+
+
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/ofeii-clock-night.png)
 
 ### 知识点
 
@@ -537,7 +537,7 @@ tips：
 
 同时PC端的event，在移动端是event.touches
 
-<img src="D:\14_Img\ofeii-clock\moblie-error.jpg" style="zoom:50%;" />
+<img src="https://github.com/OFEII/ofeii-clock-vue/blob/master/images/moblie-error.jpg" style="zoom:50%;" />
 
 
 
@@ -572,7 +572,7 @@ tips：
 
 由于在vue-cli3以上将vue.config不再显示了，若需使用需要自己添加vue.config进行配置，在添加了一个模版vueconfig后出现了两个localhost的问题，无法通过ip地址在移动端进行测试。
 
-![](D:\14_Img\ofeii-clock\localhost8080问题.png)
+![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/localhost8080问题.png)
 
 ```
     devServer: {
@@ -649,7 +649,7 @@ vscode JS standard配置链接https://marketplace.visualstudio.com/items?itemNam
 
 4. npm run build打包，网站前面的图标出现。
 
-   ![](D:\14_Img\ofeii-clock\url-ico.jpg)
+   ![](https://github.com/OFEII/ofeii-clock-vue/blob/master/images/url-ico.jpg)
 
 
 
